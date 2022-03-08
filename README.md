@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @E-Cherry
-- 📫 How to reach me: Send me a friend request on Discord, My username is Cherry#0978 and my user ID is 837613724151054367.
-- I'm intrested in Minecraft Java Edition, and I'm currently learning MySQL, to be a decent minecraft server developer.
+- 📫 How to reach me: Send me a friend request on Discord, My username is Cherry#2179 and my user ID is 837613724151054367.
+- Decent Minecraft Java Edition Server developer (Not a plugin Developer).
+- Decent Discord bot designer.
