@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @E-Cherry
-- 📫 How to reach me: Send me a friend request on Discord, My username is Cherry#2179 and my user ID is 837613724151054367.
+- 📫 How to reach me: Send me a friend request on Discord, My username is ✝・Cherry ❀#0001 and my user ID is 953926012230574110.
 - Decent Minecraft Java Edition Server developer (Not a plugin Developer).
 - Decent Discord bot designer.
